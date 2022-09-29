@@ -1,5 +1,6 @@
 # Airline-management-system
-Download jdk
-open command propmt
-javac filename ---------------->for compilation
-java filename.java  -----------> Run program
+1)  Download jdk
+
+2)  open command propmt
+3)  javac filename ---------------->for compilation
+4)  java filename.java  -----------> Run program
